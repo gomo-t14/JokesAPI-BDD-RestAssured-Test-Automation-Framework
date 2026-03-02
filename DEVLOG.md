@@ -80,4 +80,10 @@ AI was used to setupt the config *.xml files
 Finished most configs and First Test get random Joke
 AI was used to implement the code block  responseContainsFields() function was too complex for me
 
+## Getting jokes of a specific count
+Implemented the feature files
+Implemented the stepdefintion
+
+AI used to implement  verifyArrayLength() function 
+
 

@@ -1,3 +1,4 @@
+@api @T01
 Feature: Random Joke
   As a user
   I want to get a random joke

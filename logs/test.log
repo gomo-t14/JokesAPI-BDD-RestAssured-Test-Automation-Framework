@@ -34,3 +34,120 @@
 2026-03-02 21:22:24.370 [main] INFO  hooks.Hooks - ================================================
 2026-03-02 21:22:24.370 [main] INFO  hooks.Hooks - END: Get a specific number of random jokes | Status: UNDEFINED
 2026-03-02 21:22:24.370 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:27:39.205 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:27:39.207 [main] INFO  hooks.Hooks - START: Get a specific number of random jokes | Tags: [@api, @TC04]
+2026-03-02 21:27:39.207 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:27:39.215 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:27:39.217 [main] INFO  hooks.Hooks - END: Get a specific number of random jokes | Status: UNDEFINED
+2026-03-02 21:27:39.217 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:27:39.221 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:27:39.221 [main] INFO  hooks.Hooks - START: Get a specific number of random jokes | Tags: [@api, @TC04]
+2026-03-02 21:27:39.221 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:27:39.223 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:27:39.224 [main] INFO  hooks.Hooks - END: Get a specific number of random jokes | Status: UNDEFINED
+2026-03-02 21:27:39.224 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:27:39.228 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:27:39.228 [main] INFO  hooks.Hooks - START: Get a specific number of random jokes | Tags: [@api, @TC04]
+2026-03-02 21:27:39.228 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:27:39.231 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:27:39.231 [main] INFO  hooks.Hooks - END: Get a specific number of random jokes | Status: UNDEFINED
+2026-03-02 21:27:39.231 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:28:24.460 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:28:24.462 [main] INFO  hooks.Hooks - START: Get a specific number of random jokes | Tags: [@api, @TC04]
+2026-03-02 21:28:24.462 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:28:24.471 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:28:24.472 [main] INFO  hooks.Hooks - END: Get a specific number of random jokes | Status: UNDEFINED
+2026-03-02 21:28:24.472 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:28:24.476 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:28:24.476 [main] INFO  hooks.Hooks - START: Get a specific number of random jokes | Tags: [@api, @TC04]
+2026-03-02 21:28:24.476 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:28:24.478 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:28:24.479 [main] INFO  hooks.Hooks - END: Get a specific number of random jokes | Status: UNDEFINED
+2026-03-02 21:28:24.479 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:28:24.481 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:28:24.481 [main] INFO  hooks.Hooks - START: Get a specific number of random jokes | Tags: [@api, @TC04]
+2026-03-02 21:28:24.482 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:28:24.484 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:28:24.484 [main] INFO  hooks.Hooks - END: Get a specific number of random jokes | Status: UNDEFINED
+2026-03-02 21:28:24.484 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:28:35.711 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:28:35.714 [main] INFO  hooks.Hooks - START: Get a specific number of random jokes | Tags: [@api, @TC04]
+2026-03-02 21:28:35.714 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:28:35.720 [main] INFO  stepdefinitions.TC04_GetCountNumberOfJokes - [TC04] Base URL set to: https://official-joke-api.appspot.com
+2026-03-02 21:28:35.724 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:28:35.725 [main] INFO  hooks.Hooks - END: Get a specific number of random jokes | Status: UNDEFINED
+2026-03-02 21:28:35.725 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:28:35.728 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:28:35.728 [main] INFO  hooks.Hooks - START: Get a specific number of random jokes | Tags: [@api, @TC04]
+2026-03-02 21:28:35.728 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:28:35.729 [main] INFO  stepdefinitions.TC04_GetCountNumberOfJokes - [TC04] Base URL set to: https://official-joke-api.appspot.com
+2026-03-02 21:28:35.730 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:28:35.731 [main] INFO  hooks.Hooks - END: Get a specific number of random jokes | Status: UNDEFINED
+2026-03-02 21:28:35.731 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:28:35.733 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:28:35.734 [main] INFO  hooks.Hooks - START: Get a specific number of random jokes | Tags: [@api, @TC04]
+2026-03-02 21:28:35.734 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:28:35.734 [main] INFO  stepdefinitions.TC04_GetCountNumberOfJokes - [TC04] Base URL set to: https://official-joke-api.appspot.com
+2026-03-02 21:28:35.736 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:28:35.736 [main] INFO  hooks.Hooks - END: Get a specific number of random jokes | Status: UNDEFINED
+2026-03-02 21:28:35.736 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:33:26.202 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:33:26.205 [main] INFO  hooks.Hooks - START: Get a specific number of random jokes | Tags: [@api, @TC04]
+2026-03-02 21:33:26.205 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:33:26.210 [main] INFO  stepdefinitions.TC04_GetCountNumberOfJokes - [TC04] Base URL set to: https://official-joke-api.appspot.com
+2026-03-02 21:33:26.210 [main] INFO  stepdefinitions.TC04_GetCountNumberOfJokes - [TC04] GET https://official-joke-api.appspot.com/jokes/random/1
+2026-03-02 21:33:27.402 [main] INFO  stepdefinitions.TC04_GetCountNumberOfJokes - [TC04] Status code — expected: 200 | actual: 200
+2026-03-02 21:33:27.489 [main] INFO  stepdefinitions.TC04_GetCountNumberOfJokes - [TC04] Array length — expected: 1 | actual: 1
+2026-03-02 21:33:27.489 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:33:27.490 [main] INFO  hooks.Hooks - END: Get a specific number of random jokes | Status: PASSED
+2026-03-02 21:33:27.490 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:33:27.492 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:33:27.492 [main] INFO  hooks.Hooks - START: Get a specific number of random jokes | Tags: [@api, @TC04]
+2026-03-02 21:33:27.492 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:33:27.494 [main] INFO  stepdefinitions.TC04_GetCountNumberOfJokes - [TC04] Base URL set to: https://official-joke-api.appspot.com
+2026-03-02 21:33:27.495 [main] INFO  stepdefinitions.TC04_GetCountNumberOfJokes - [TC04] GET https://official-joke-api.appspot.com/jokes/random/5
+2026-03-02 21:33:27.715 [main] INFO  stepdefinitions.TC04_GetCountNumberOfJokes - [TC04] Status code — expected: 200 | actual: 200
+2026-03-02 21:33:27.721 [main] INFO  stepdefinitions.TC04_GetCountNumberOfJokes - [TC04] Array length — expected: 5 | actual: 5
+2026-03-02 21:33:27.721 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:33:27.721 [main] INFO  hooks.Hooks - END: Get a specific number of random jokes | Status: PASSED
+2026-03-02 21:33:27.721 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:33:27.722 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:33:27.723 [main] INFO  hooks.Hooks - START: Get a specific number of random jokes | Tags: [@api, @TC04]
+2026-03-02 21:33:27.723 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:33:27.723 [main] INFO  stepdefinitions.TC04_GetCountNumberOfJokes - [TC04] Base URL set to: https://official-joke-api.appspot.com
+2026-03-02 21:33:27.723 [main] INFO  stepdefinitions.TC04_GetCountNumberOfJokes - [TC04] GET https://official-joke-api.appspot.com/jokes/random/10
+2026-03-02 21:33:27.947 [main] INFO  stepdefinitions.TC04_GetCountNumberOfJokes - [TC04] Status code — expected: 200 | actual: 200
+2026-03-02 21:33:27.952 [main] INFO  stepdefinitions.TC04_GetCountNumberOfJokes - [TC04] Array length — expected: 10 | actual: 10
+2026-03-02 21:33:27.952 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:33:27.952 [main] INFO  hooks.Hooks - END: Get a specific number of random jokes | Status: PASSED
+2026-03-02 21:33:27.952 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:33:50.729 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:33:50.732 [main] INFO  hooks.Hooks - START: Get a specific number of random jokes | Tags: [@api, @TC04]
+2026-03-02 21:33:50.732 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:33:50.737 [main] INFO  stepdefinitions.TC04_GetCountNumberOfJokes - [TC04] Base URL set to: https://official-joke-api.appspot.com
+2026-03-02 21:33:50.737 [main] INFO  stepdefinitions.TC04_GetCountNumberOfJokes - [TC04] GET https://official-joke-api.appspot.com/jokes/random/1
+2026-03-02 21:33:51.848 [main] INFO  stepdefinitions.TC04_GetCountNumberOfJokes - [TC04] Status code — expected: 200 | actual: 200
+2026-03-02 21:33:51.935 [main] INFO  stepdefinitions.TC04_GetCountNumberOfJokes - [TC04] Array length — expected: 1 | actual: 1
+2026-03-02 21:33:51.935 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:33:51.935 [main] INFO  hooks.Hooks - END: Get a specific number of random jokes | Status: PASSED
+2026-03-02 21:33:51.935 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:33:51.937 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:33:51.938 [main] INFO  hooks.Hooks - START: Get a specific number of random jokes | Tags: [@api, @TC04]
+2026-03-02 21:33:51.938 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:33:51.938 [main] INFO  stepdefinitions.TC04_GetCountNumberOfJokes - [TC04] Base URL set to: https://official-joke-api.appspot.com
+2026-03-02 21:33:51.939 [main] INFO  stepdefinitions.TC04_GetCountNumberOfJokes - [TC04] GET https://official-joke-api.appspot.com/jokes/random/5
+2026-03-02 21:33:52.160 [main] INFO  stepdefinitions.TC04_GetCountNumberOfJokes - [TC04] Status code — expected: 200 | actual: 200
+2026-03-02 21:33:52.172 [main] INFO  stepdefinitions.TC04_GetCountNumberOfJokes - [TC04] Array length — expected: 5 | actual: 5
+2026-03-02 21:33:52.173 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:33:52.173 [main] INFO  hooks.Hooks - END: Get a specific number of random jokes | Status: PASSED
+2026-03-02 21:33:52.173 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:33:52.174 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:33:52.174 [main] INFO  hooks.Hooks - START: Get a specific number of random jokes | Tags: [@api, @TC04]
+2026-03-02 21:33:52.174 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:33:52.174 [main] INFO  stepdefinitions.TC04_GetCountNumberOfJokes - [TC04] Base URL set to: https://official-joke-api.appspot.com
+2026-03-02 21:33:52.175 [main] INFO  stepdefinitions.TC04_GetCountNumberOfJokes - [TC04] GET https://official-joke-api.appspot.com/jokes/random/10
+2026-03-02 21:33:52.386 [main] INFO  stepdefinitions.TC04_GetCountNumberOfJokes - [TC04] Status code — expected: 200 | actual: 200
+2026-03-02 21:33:52.390 [main] INFO  stepdefinitions.TC04_GetCountNumberOfJokes - [TC04] Array length — expected: 10 | actual: 10
+2026-03-02 21:33:52.391 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:33:52.391 [main] INFO  hooks.Hooks - END: Get a specific number of random jokes | Status: PASSED
+2026-03-02 21:33:52.391 [main] INFO  hooks.Hooks - ================================================

@@ -1,5 +1,5 @@
 @api @TC04
-Feature:Get a specific number of random jokes
+Feature:Specific number of random jokes
   As a user
   I want to get a number of x jokes
   So that I can use them in my application
