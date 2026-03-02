@@ -55,3 +55,9 @@ Result **, TC01, TC04,TC08,TC11** will be implemented
 1. Tabulate the results of analysis
 2. classify and group end point into requirements
 3. write proper markdown table in good format
+
+## Development
+### Setting up dependecies and cucumber related file structure
+configure dependencies for cucumber , log4j , testng , rest assured 
+**NB AI  was used for dependency setup**
+
