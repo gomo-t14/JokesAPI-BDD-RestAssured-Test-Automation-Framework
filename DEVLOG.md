@@ -89,4 +89,9 @@ AI used to implement  verifyArrayLength() function
 ## Implementing joke by type
 
 Due to time constraint will not be implementing the final test 4th test
+Implemented feature file now implemetation step definition 
+Implementated step definition 
+
+## Working on read me
+AI was used to formatted and write majority of the Readme file to my descretion
 
