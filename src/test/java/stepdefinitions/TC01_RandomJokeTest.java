@@ -40,3 +40,4 @@ public class TC01_RandomJokeTest {
         assertEquals(context.response.getStatusCode(), statusCode);
     }
 }
+

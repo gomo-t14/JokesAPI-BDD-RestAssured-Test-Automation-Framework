@@ -69,3 +69,14 @@ debugging issue face between feature file and step def
 fixed by restarting idea time lost
 mentality impacted should recover lost time
 
+## Recovery 
+Implemented logging file 
+implemented testng file
+
+Added Hooks to allow logging before and after execution of test
+AI was used to format the log output
+AI was used to setupt the config *.xml files 
+
+
+
+
