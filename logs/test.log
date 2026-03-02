@@ -16,3 +16,21 @@
 2026-03-02 21:14:32.468 [main] INFO  hooks.Hooks - ================================================
 2026-03-02 21:14:32.468 [main] INFO  hooks.Hooks - END: Get a random joke and verify response structure | Status: PASSED
 2026-03-02 21:14:32.469 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:22:24.343 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:22:24.346 [main] INFO  hooks.Hooks - START: Get a specific number of random jokes | Tags: [@api, @TC04]
+2026-03-02 21:22:24.346 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:22:24.355 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:22:24.356 [main] INFO  hooks.Hooks - END: Get a specific number of random jokes | Status: UNDEFINED
+2026-03-02 21:22:24.356 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:22:24.361 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:22:24.361 [main] INFO  hooks.Hooks - START: Get a specific number of random jokes | Tags: [@api, @TC04]
+2026-03-02 21:22:24.361 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:22:24.363 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:22:24.363 [main] INFO  hooks.Hooks - END: Get a specific number of random jokes | Status: UNDEFINED
+2026-03-02 21:22:24.363 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:22:24.368 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:22:24.368 [main] INFO  hooks.Hooks - START: Get a specific number of random jokes | Tags: [@api, @TC04]
+2026-03-02 21:22:24.368 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:22:24.370 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:22:24.370 [main] INFO  hooks.Hooks - END: Get a specific number of random jokes | Status: UNDEFINED
+2026-03-02 21:22:24.370 [main] INFO  hooks.Hooks - ================================================
