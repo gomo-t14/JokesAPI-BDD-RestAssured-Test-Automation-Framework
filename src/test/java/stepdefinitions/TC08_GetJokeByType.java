@@ -21,13 +21,9 @@ public class TC08_GetJokeByType {
         this.context = context;
     }
 
-    @Given("the TC08 base URL is {string}")
-    public void setBaseUrl(String baseUrl) {
-        context.baseUrl = baseUrl;
-        log.info("[TC08] Base URL set to: {}", baseUrl);
-    }
 
-    @When("I send a TC08 GET request to {string}")
+
+    @When("I send a GET request to {string}")
     public void sendGetRequest(String endpoint) {
         log.info("[TC08] GET {}{}", context.baseUrl, endpoint);
         context.response = given()
@@ -40,7 +36,7 @@ public class TC08_GetJokeByType {
                 context.response.getBody().asString());
     }
 
-    @Then("the TC08 response status code should be {int}")
+    @Then("the response status code should be {int}")
     public void verifyStatusCode(int expected) {
         int actual = context.response.getStatusCode();
         log.info("[TC08] Status code — expected: {} | actual: {}", expected, actual);
@@ -48,7 +44,7 @@ public class TC08_GetJokeByType {
                 "Unexpected HTTP status code. Body: " + context.response.getBody().asString());
     }
 
-    @Then("the TC08 response field {string} should equal {string}")
+    @Then("the response field {string} should equal {string}")
     public void responseFieldEquals(String field, String expected) {
         Object actual = context.response.jsonPath().get(field);
         log.info("[TC08] Field '{}' — expected: '{}' | actual: '{}'", field, expected, actual);
@@ -59,7 +55,7 @@ public class TC08_GetJokeByType {
                 "[TC08] Field '" + field + "' value mismatch");
     }
 
-    @Then("the TC08 response should contain the following fields:")
+    @Then("the response should contain the following fields:")
     public void responseContainsFields(DataTable dataTable) {
         List<String> fields = dataTable.asList();
         fields = fields.subList(1, fields.size()); // skip header row "field"
@@ -71,7 +67,7 @@ public class TC08_GetJokeByType {
         }
     }
 
-    @Then("the TC08 response field {string} should not be empty")
+    @Then("the response field {string} should not be empty")
     public void responseFieldNotEmpty(String field) {
         String value = context.response.jsonPath().getString(field);
         log.debug("[TC08] Field '{}' = '{}'", field, value);
@@ -79,7 +75,7 @@ public class TC08_GetJokeByType {
         Assert.assertFalse(value.isBlank(), "[TC08] Field '" + field + "' was blank");
     }
 
-    @Then("the TC08 response field {string} should be an integer")
+    @Then("the response field {string} should be an integer")
     public void responseFieldIsInteger(String field) {
         Object value = context.response.jsonPath().get(field);
         log.debug("[TC08] Field '{}' = '{}' | type: '{}'",
