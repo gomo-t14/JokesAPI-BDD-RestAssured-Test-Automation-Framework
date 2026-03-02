@@ -14,7 +14,7 @@ import static io.restassured.RestAssured.given;
 
 public class TC08_GetJokeByType {
 
-    private static final Logger log = LogManager.getLogger(TC08_JokeByTypeSteps.class);
+    private static final Logger log = LogManager.getLogger(TC08_GetJokeByType.class);
     private final SharedContext context;
 
     public TC08_GetJokeByType(SharedContext context) {
