@@ -61,3 +61,6 @@ Result **, TC01, TC04,TC08,TC11** will be implemented
 configure dependencies for cucumber , log4j , testng , rest assured 
 **NB AI  was used for dependency setup**
 
+Implementating the random joke class AI was used as a learning tool to explain the concept of DI injection and how implementing a sharedcontext will make code more modular 
+AI came up with shared context Idea  and code
+Fully understood idea and implemented it 
