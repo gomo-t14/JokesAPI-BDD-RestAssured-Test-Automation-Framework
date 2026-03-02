@@ -151,3 +151,19 @@
 2026-03-02 21:33:52.391 [main] INFO  hooks.Hooks - ================================================
 2026-03-02 21:33:52.391 [main] INFO  hooks.Hooks - END: Get a specific number of random jokes | Status: PASSED
 2026-03-02 21:33:52.391 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:44:17.288 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:44:17.291 [main] INFO  hooks.Hooks - START: Get a random joke by type and verify fields | Tags: [@api, @TC08]
+2026-03-02 21:44:17.291 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:44:17.295 [main] INFO  stepdefinitions.TC04_GetCountNumberOfJokes - [TC04] Base URL set to: https://official-joke-api.appspot.com
+2026-03-02 21:44:17.296 [main] INFO  stepdefinitions.TC04_GetCountNumberOfJokes - [TC04] GET https://official-joke-api.appspot.com/jokes/programming/random
+2026-03-02 21:44:18.438 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:44:18.439 [main] INFO  hooks.Hooks - END: Get a random joke by type and verify fields | Status: UNDEFINED
+2026-03-02 21:44:18.439 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:44:18.444 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:44:18.444 [main] INFO  hooks.Hooks - START: Get a random joke by type and verify fields | Tags: [@api, @TC08]
+2026-03-02 21:44:18.445 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:44:18.445 [main] INFO  stepdefinitions.TC04_GetCountNumberOfJokes - [TC04] Base URL set to: https://official-joke-api.appspot.com
+2026-03-02 21:44:18.445 [main] INFO  stepdefinitions.TC04_GetCountNumberOfJokes - [TC04] GET https://official-joke-api.appspot.com/jokes/general/random
+2026-03-02 21:44:18.677 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:44:18.677 [main] INFO  hooks.Hooks - END: Get a random joke by type and verify fields | Status: UNDEFINED
+2026-03-02 21:44:18.677 [main] INFO  hooks.Hooks - ================================================

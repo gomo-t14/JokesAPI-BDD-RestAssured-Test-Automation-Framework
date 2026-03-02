@@ -86,4 +86,7 @@ Implemented the stepdefintion
 
 AI used to implement  verifyArrayLength() function 
 
+## Implementing joke by type
+
+Due to time constraint will not be implementing the final test 4th test
 
