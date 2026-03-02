@@ -77,6 +77,7 @@ Added Hooks to allow logging before and after execution of test
 AI was used to format the log output
 AI was used to setupt the config *.xml files 
 
-
+Finished most configs and First Test get random Joke
+AI was used to implement the code block  responseContainsFields() function was too complex for me
 
 

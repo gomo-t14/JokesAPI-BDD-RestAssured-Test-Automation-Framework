@@ -1,0 +1,18 @@
+2026-03-02 21:07:47.821 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:07:47.830 [main] INFO  hooks.Hooks - START: Get a random joke and verify response structure | Tags: []
+2026-03-02 21:07:47.830 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:07:47.830 [main] INFO  stepdefinitions.TC01_RandomJokeTest - [TC01] Base URL set to: https://official-joke-api.appspot.com
+2026-03-02 21:07:47.830 [main] INFO  stepdefinitions.TC01_RandomJokeTest - [TC01] GET https://official-joke-api.appspot.com/random_joke
+2026-03-02 21:07:49.055 [main] INFO  stepdefinitions.TC01_RandomJokeTest - [TC01] Status code — expected: 200 | actual: 200
+2026-03-02 21:07:49.457 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:07:49.463 [main] INFO  hooks.Hooks - END: Get a random joke and verify response structure | Status: PASSED
+2026-03-02 21:07:49.463 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:14:30.885 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:14:30.888 [main] INFO  hooks.Hooks - START: Get a random joke and verify response structure | Tags: []
+2026-03-02 21:14:30.888 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:14:30.893 [main] INFO  stepdefinitions.TC01_RandomJokeTest - [TC01] Base URL set to: https://official-joke-api.appspot.com
+2026-03-02 21:14:30.893 [main] INFO  stepdefinitions.TC01_RandomJokeTest - [TC01] GET https://official-joke-api.appspot.com/random_joke
+2026-03-02 21:14:32.063 [main] INFO  stepdefinitions.TC01_RandomJokeTest - [TC01] Status code — expected: 200 | actual: 200
+2026-03-02 21:14:32.468 [main] INFO  hooks.Hooks - ================================================
+2026-03-02 21:14:32.468 [main] INFO  hooks.Hooks - END: Get a random joke and verify response structure | Status: PASSED
+2026-03-02 21:14:32.469 [main] INFO  hooks.Hooks - ================================================
