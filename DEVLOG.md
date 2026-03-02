@@ -64,3 +64,8 @@ configure dependencies for cucumber , log4j , testng , rest assured
 Implementating the random joke class AI was used as a learning tool to explain the concept of DI injection and how implementing a sharedcontext will make code more modular 
 AI came up with shared context Idea  and code
 Fully understood idea and implemented it 
+
+debugging issue face between feature file and step def
+fixed by restarting idea time lost
+mentality impacted should recover lost time
+

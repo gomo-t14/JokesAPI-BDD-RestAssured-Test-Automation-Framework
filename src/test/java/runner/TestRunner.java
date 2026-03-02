@@ -5,12 +5,12 @@ import io.cucumber.testng.CucumberOptions;
 
 @CucumberOptions(
         features = "src/test/resources/features",
-        glue     = {"com.example.stepdefinitions"},
+        glue     = {"runner.stepdefinitions"},
         plugin   = {
                 "pretty",
                 "html:target/cucumber-reports/report.html",
                 "json:target/cucumber-reports/cucumber.json"
-        },
+        }
 )
 public class TestRunner extends AbstractTestNGCucumberTests {
 }
